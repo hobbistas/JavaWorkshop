@@ -1,0 +1,7 @@
+
+
+enum Power {
+	
+	on, off
+	
+}

@@ -1,0 +1,7 @@
+
+
+enum Mode {
+	
+	idle, wakeUp
+
+}
